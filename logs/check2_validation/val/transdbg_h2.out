@@ -1,0 +1,1 @@
+trans h=2 states=7 inputs=42 accepted(check.cpp)=36 accepted(check2)=36 mismatches=0 accepted_not_listed=0 time=0.0s threads=16

@@ -1,0 +1,2 @@
+h=9 states=51425006 accepted_transitions=790078170 lam_num=6727681800027252070 lam_cert=0.36470836116903677 time=66.7s
+CLAIM: A_z v <= (6727681800027252070 / 2^64) v exactly, on a transition-closed state set containing the start state

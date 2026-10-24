@@ -1,0 +1,8 @@
+h=2 states=7 accepted=36 mismatches(check.cpp vs mh_delta.h)=0
+h=3 states=98 accepted=707 mismatches(check.cpp vs mh_delta.h)=0
+h=4 states=1020 accepted=9165 mismatches(check.cpp vs mh_delta.h)=0
+h=5 states=10160 accepted=106114 mismatches(check.cpp vs mh_delta.h)=0
+h=6 states=89960 accepted=1065417 mismatches(check.cpp vs mh_delta.h)=0
+h=7 states=780368 accepted=10203881 mismatches(check.cpp vs mh_delta.h)=0
+h=8 states=6419109 accepted=91508397 mismatches(check.cpp vs mh_delta.h)=0
+h=9 states=51425006 accepted=790078170 mismatches(check.cpp vs mh_delta.h)=0

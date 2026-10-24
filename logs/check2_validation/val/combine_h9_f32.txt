@@ -1,0 +1,6 @@
+piece rows=0-30000000 lam_num=6727682523468143018 accepted=460570469  [logs/val/c2_h9_f32_r0.out]
+piece rows=30000000-51425006 lam_num=6727682508584903284 accepted=329507701  [logs/val/c2_h9_f32_r1.out]
+h={9} N=51425006 fingerprints={('0b5678fc368c2749', 'ab546816e1002997', '5cb6013ca31b56ef')}
+accepted_transitions(total)=790078170
+LAM=6727682523468143018 lam=0.36470840038684604
+RESULT: OK (A_z v <= LAM/2^64 v on all rows, given rc=0 runs on identical inputs)

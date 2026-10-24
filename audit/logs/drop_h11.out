@@ -1,0 +1,10 @@
+real removals in memory (MHC_DROP): the start state, then state 1234567890
+start state index 262143
+MHC_DROP: entry 262143 removed
+start state missing
+exit code 1
+MHC_DROP: entry 1234567890 removed
+h=11 states=3045043878 K=62 accepted_transitions=53133194431 missing_successors=48 rows_failing_LAM=0 rows_failing_LAM-1=1 max_ratio_float=0.40456603101114763 at_key=4412365862913
+FAIL: LAM=7462926034979082163 (lambda = LAM/2^64 = 0.40456603101114763)
+least passing LAM (exact, given closure) = 7462926034979082163 (lambda = 0.40456603101114763); LAM - least = 0
+exit code 1

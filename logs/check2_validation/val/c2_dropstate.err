@@ -1,0 +1,4 @@
+check2: h=8 N=6419108 rows=[0,6419108) v=binary64 threads=16 index_bits=23 (top=31) keys_fp=74f52558ff82c678 v_fp=7974ee9a06fb9a6d w_fp=9e99bdbf43d4ce6d load=0.0s checks+index=0.0s
+FAIL closure: successor 3b35f715 of state 1d4df70b (c=1 l=-1) not listed
+check2: main loop 0.5s wall, 8.4s cpu (user+sys)
+check2: lam_num 6305692192723871581 attained first at row 3063572 (key 3755ff01)

@@ -1,0 +1,8 @@
+a279cb60a96568622b11f52a1ea1be592064e83bc2dd762e819d1ab9ba59a8a3  data/h12_v_0.350500.bin
+h=12 states=22670087101 K=63 accepted_transitions=418139991128 missing_successors=0 rows_failing_LAM=0 rows_failing_LAM-1=1 max_ratio_float=0.42158195659364622 at_key=45816344577
+PASS: LAM=7776814459376720853 (lambda = LAM/2^64 = 0.42158195659364622)
+least passing LAM (exact, given closure) = 7776814459376720853 (lambda = 0.42158195659364622); LAM - least = 0
+NEG wrong weights (MHC_W2): rows failing = 22670087101 -> REJECTED
+NEG perturbed V[12345678901] (V -= V/2 + 1): rows failing = 1 -> REJECTED
+NEG state 9876543210 removed (emulated): missing successors = 4 -> REJECTED
+rc=0 elapsed 3024 s

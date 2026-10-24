@@ -1,0 +1,3 @@
+check2: h=8 N=6419109 rows=[0,6419109) v=binary32 threads=16 index_bits=23 (top=31) keys_fp=7ef3181b4c07ff4e v_fp=823039f5154c80c9 w_fp=9e99bdbf43d4ce6d load=0.0s checks+index=0.0s
+check2: main loop 0.4s wall, 6.8s cpu (user+sys)
+check2: lam_num 6305692848839144606 attained first at row 2378220 (key 2892d10d)

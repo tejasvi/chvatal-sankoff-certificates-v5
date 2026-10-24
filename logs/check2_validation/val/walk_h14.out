@@ -1,0 +1,1 @@
+walk h=14 walks=256 steps=40000 inputs=552960000 accepted=127949648 mismatches=0 restarts=0 time=28.0s

@@ -1,0 +1,40 @@
+name = "CS31a"
+version = "0.1.0"
+keywords = ["math"]
+defaultTargets = ["CS31a"]
+
+[leanOptions]
+pp.unicode.fun = true
+relaxedAutoImplicit = false
+autoImplicit = false
+weak.linter.style.header = false
+
+# Lean proofs of upper bounds for the binary Chvatal-Sankoff constant via Lueker's automaton M_h.
+# Toolchain leanprover/lean4:v4.35.0-rc3; Mathlib at tag v4.35.0-rc3 (commit c55e6e786f49, see lake-manifest.json).
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+rev = "v4.35.0-rc3"
+
+# Definitions, the reduction (LCS facts, canonical decomposition, covering lemma, counting theorem) and checker soundness.
+[[lean_lib]]
+name = "CS31a"
+
+# The certificate checkers (core Lean only), compiled to native code so that `native_decide`
+# runs compiled code instead of the IR interpreter.
+[[lean_lib]]
+name = "CS31aCert"
+precompileModules = true
+
+# Test driver (not part of any proof).
+[[lean_exe]]
+name = "cs31atest"
+root = "CS31aTest.Main"
+
+# N-track data modules (literals) and the native_decide theorems; interpreted glue calling the compiled checker.
+[[lean_lib]]
+name = "CS31aData"
+
+# Kernel-only (K) track: KTree data, `decide +kernel` shards, final theorems. Imports nothing that uses native_decide.
+[[lean_lib]]
+name = "CS31aK"

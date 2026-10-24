@@ -1,0 +1,8 @@
+piece rows=0-41423791844 lam_num=8116075049319798120 accepted=799246313054  [h13/cert/out/c2_h13_r0_n0.out]
+piece rows=41423791844-82847567618 lam_num=8116075120430765179 accepted=808507771177  [h13/cert/out/c2_h13_r1_n1.out]
+piece rows=82847567618-124271409243 lam_num=8116075413730513074 accepted=804930896703  [h13/cert/out/c2_h13_r2_n2.out]
+piece rows=124271409243-165695219469 lam_num=8116075080003761612 accepted=804648433381  [h13/cert/out/c2_h13_r3_n3.out]
+h={13} N=165695219469 fingerprints={('9e2d85eb064d6fe5', 'c534d0a11fa16f80', '096a6ae0ce697486')}
+accepted_transitions(total)=3217333414315
+LAM=8116075413730513074 lam=0.43997332978114057
+RESULT: OK (A_z v <= LAM/2^64 v on all rows, given rc=0 runs on identical inputs)

@@ -1,0 +1,8 @@
+h=2 states=7 transitions=42 accepted=36 mismatches=0 | time fast 0.14s dp 0.03s (ratio 0.2) [0]
+h=3 states=98 transitions=980 accepted=707 mismatches=0 | time fast 0.10s dp 0.10s (ratio 1.0) [0]
+h=4 states=1020 transitions=14280 accepted=9165 mismatches=0 | time fast 0.03s dp 0.03s (ratio 0.8) [0]
+h=5 states=10160 transitions=182880 accepted=106114 mismatches=0 | time fast 0.04s dp 0.03s (ratio 0.7) [0]
+h=6 states=89960 transitions=1979120 accepted=1065417 mismatches=0 | time fast 0.03s dp 0.06s (ratio 1.9) [0]
+h=7 states=780368 transitions=20289568 accepted=10203881 mismatches=0 | time fast 0.29s dp 1.02s (ratio 3.5) [0]
+h=8 states=6419109 transitions=192573270 accepted=91508397 mismatches=0 | time fast 0.27s dp 2.69s (ratio 9.8) [0]
+h=9 states=51425006 transitions=1748450204 accepted=790078170 mismatches=0 | time fast 0.72s dp 14.05s (ratio 19.6) [0]

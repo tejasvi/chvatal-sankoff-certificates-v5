@@ -1,0 +1,8 @@
+ERROR: different input fingerprints {('0b5678fc368c2749', '5e6e12db2bdbe005', '5cb6013ca31b56ef'), ('0b5678fc368c2749', 'ab546816e1002997', '5cb6013ca31b56ef')}
+ERROR: rows 12000000-30000000 not covered
+piece rows=0-12000000 lam_num=6727681800027251428 accepted=183024017  [logs/val/c2_h9_r0.out]
+piece rows=30000000-51425006 lam_num=6727682508584903284 accepted=329507701  [logs/val/c2_h9_f32_r1.out]
+h={9} N=51425006 fingerprints={('0b5678fc368c2749', '5e6e12db2bdbe005', '5cb6013ca31b56ef'), ('0b5678fc368c2749', 'ab546816e1002997', '5cb6013ca31b56ef')}
+accepted_transitions(total)=None
+LAM=6727682508584903284 lam=0.36470839958002405
+RESULT: NOT COMBINABLE

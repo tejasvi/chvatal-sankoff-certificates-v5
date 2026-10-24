@@ -1,0 +1,12 @@
+16:15:43 rank 1: slice it=100 size=165695103096 (want it=100 size=165695103096)
+16:29:31 own slice copied
+16:31:07 sent slice 1 to rank 2
+16:31:26 sent slice 1 to rank 0
+16:31:46 received slice 2
+16:31:55 received slice 3
+16:31:58 sent slice 1 to rank 3
+16:31:58 received slice 0
+16:31:58 assembled: 662780877876 bytes
+z = 0.3568 = 223/625; weights written to w_h13_0.3568.txt
+16:31:58 check2 rows 41423791844..82847567618
+17:28:02 check2 exit 0

@@ -1,0 +1,11 @@
+import CS31aData.Elab
+
+/-! h = 12 data: part 302 of h12_keys.bin (entries 15109562830 .. 15159594494). -/
+
+namespace CS31aData.H12
+
+set_option maxHeartbeats 0 in
+def k302 : List (Nat × Nat) :=
+  chunks_of_file% "cert_data/h12/h12_keys.bin.part302" 400253320 33554432
+
+end CS31aData.H12

@@ -1,0 +1,6 @@
+rank 1: read 165695219469 keys (254s)
+rank 1: rows [41423791844, 82847567618) = 41423775774 states, 3182390 groups
+rank 1: lifted start: 37610987982 of 41423775774 own states found at level 12
+rank 1: table built: 715546126613 uint16 + 92961644564 uint32 entries (1802.9 GB) (3043s)
+rank 1: ring connected (8 streams each way)
+rank 1: stopped after iteration 100 (checkpointed)

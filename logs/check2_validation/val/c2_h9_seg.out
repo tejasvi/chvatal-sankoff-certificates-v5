@@ -1,0 +1,9 @@
+SEGMENT h=9 rows=0-7346429 total_states=51425006 states=7346429 accepted_transitions=111131587 closure_failures=0 lam_num=6727681800027251428 keys_fp=0b5678fc368c2749 v_fp=5e6e12db2bdbe005 w_fp=5cb6013ca31b56ef time=0.8s
+SEGMENT h=9 rows=7346429-14692858 total_states=51425006 states=7346429 accepted_transitions=113619158 closure_failures=0 lam_num=6727681800027251420 keys_fp=0b5678fc368c2749 v_fp=5e6e12db2bdbe005 w_fp=5cb6013ca31b56ef time=0.8s
+SEGMENT h=9 rows=14692858-22039288 total_states=51425006 states=7346430 accepted_transitions=113155287 closure_failures=0 lam_num=6727681800027251425 keys_fp=0b5678fc368c2749 v_fp=5e6e12db2bdbe005 w_fp=5cb6013ca31b56ef time=0.7s
+SEGMENT h=9 rows=22039288-29385717 total_states=51425006 states=7346429 accepted_transitions=113139185 closure_failures=0 lam_num=6727681800027251427 keys_fp=0b5678fc368c2749 v_fp=5e6e12db2bdbe005 w_fp=5cb6013ca31b56ef time=0.7s
+SEGMENT h=9 rows=29385717-36732147 total_states=51425006 states=7346430 accepted_transitions=113150526 closure_failures=0 lam_num=6727681800027251427 keys_fp=0b5678fc368c2749 v_fp=5e6e12db2bdbe005 w_fp=5cb6013ca31b56ef time=0.6s
+SEGMENT h=9 rows=36732147-44078576 total_states=51425006 states=7346429 accepted_transitions=112591370 closure_failures=0 lam_num=6727681800027252010 keys_fp=0b5678fc368c2749 v_fp=5e6e12db2bdbe005 w_fp=5cb6013ca31b56ef time=0.6s
+SEGMENT h=9 rows=44078576-51425006 total_states=51425006 states=7346430 accepted_transitions=113291057 closure_failures=0 lam_num=6727681800027252070 keys_fp=0b5678fc368c2749 v_fp=5e6e12db2bdbe005 w_fp=5cb6013ca31b56ef time=0.6s
+h=9 states=51425006 accepted_transitions=790078170 lam_num=6727681800027252070 lam_cert=0.36470836116903677 time=5.0s
+CLAIM: A_z v <= (6727681800027252070 / 2^64) v exactly, on a transition-closed state set containing the start state

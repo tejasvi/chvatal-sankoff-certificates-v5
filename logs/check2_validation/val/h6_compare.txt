@@ -1,0 +1,10 @@
+h=6 states=89960 accepted_transitions=1065417 lam_num=4961351821377101583 lam_cert=0.26895542116009841 time=0.1s
+rc=0
+check2: h=6 N=89960 rows=[0,89960) v=binary64 threads=16 index_bits=17 (top=23) keys_fp=c279170e680a031d v_fp=2b16d8db94779108 w_fp=3497a9e5ad8eb920 load=0.3s checks+index=0.4s
+check2: main loop 0.0s wall, 0.3s cpu (user+sys)
+check2: lam_num 4961351821377101583 attained first at row 19306 (key 155fc1)
+h=6 states=89960 accepted_transitions=1065417 lam_num=4961351821377101583 lam_cert=0.26895542116009841 time=0.0s
+rc=0
+accepted_transitions(total)=1065417
+LAM=4961351821377101583 lam=0.26895542116009841
+RESULT: OK (A_z v <= LAM/2^64 v on all rows, given rc=0 runs on identical inputs)

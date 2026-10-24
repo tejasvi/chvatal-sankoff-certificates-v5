@@ -1,0 +1,2 @@
+h=9 rows=25712503-40000001 total_states=51425006 states=14287498 accepted_transitions=219649583 lam_num=6727681800027251427 lam_cert=0.36470836116903677 keys_fp=0b5678fc368c2749 v_fp=5e6e12db2bdbe005 w_fp=5cb6013ca31b56ef time=1.4s
+CLAIM(rows 25712503-40000001 of 51425006): every accepted successor of these states is listed and (A_z v)(q) <= (6727681800027251427 / 2^64) v(q) exactly for each of them; keys sorted, start state listed, v > 0 on all states

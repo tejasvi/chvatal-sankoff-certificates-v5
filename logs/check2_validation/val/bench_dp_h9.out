@@ -1,0 +1,1 @@
+bench dp h=9 states=51425006 accepted=790078170 checksum=abddd4fc3f9d82fc time=3.19s threads=16 ns/state/thread=993.9

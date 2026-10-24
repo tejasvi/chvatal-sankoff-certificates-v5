@@ -1,0 +1,6 @@
+coverruns test h=2: 200 random pairs of length 400, 57309 pairs fed (6912 truncated), rejections: 0
+coverruns test h=3: 200 random pairs of length 400, 57145 pairs fed (4261 truncated), rejections: 0
+coverruns test h=4: 200 random pairs of length 400, 57898 pairs fed (2831 truncated), rejections: 0
+coverruns test h=6: 200 random pairs of length 400, 56735 pairs fed (1718 truncated), rejections: 0
+coverruns test h=9: 200 random pairs of length 400, 57047 pairs fed (961 truncated), rejections: 0
+coverruns test h=10: 200 random pairs of length 400, 57164 pairs fed (786 truncated), rejections: 0

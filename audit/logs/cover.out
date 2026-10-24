@@ -1,0 +1,5 @@
+cover test h=2: 300 random pairs of length 400, 95816 pairs fed, rejections: 0
+cover test h=3: 300 random pairs of length 400, 95887 pairs fed, rejections: 0
+cover test h=4: 300 random pairs of length 400, 95857 pairs fed, rejections: 0
+cover test h=6: 300 random pairs of length 400, 95909 pairs fed, rejections: 0
+cover test h=9: 300 random pairs of length 400, 95884 pairs fed, rejections: 0
